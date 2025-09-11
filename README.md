@@ -5,7 +5,7 @@
 
 <h4>Ostatné:</h4>
 
-  - Typing game:
+  - Typing game: https://github.com/Tomas-Pytel/Typing-Game
   - Traveling Salesman Problem:
   - Tower Defensne game: 
 
