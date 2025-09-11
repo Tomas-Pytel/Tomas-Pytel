@@ -5,9 +5,9 @@
 
 <h4>Ostatné:</h4>
 
-  - Typing game: https://github.com/Tomas-Pytel/Typing-Game
-  - Traveling Salesman Problem: https://github.com/Tomas-Pytel/Traveling-Salesman
-  - Tower Defensne game: https://github.com/Tomas-Pytel/Tower-Defense
+  - ⌨️ Typing game: https://github.com/Tomas-Pytel/Typing-Game
+  - 🧭 Traveling Salesman Problem: https://github.com/Tomas-Pytel/Traveling-Salesman
+  - 🏰 Tower Defensne game: https://github.com/Tomas-Pytel/Tower-Defense
 
 ---
 <h3 align="left">Jazyky:</h3>
