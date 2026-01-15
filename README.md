@@ -25,14 +25,29 @@
 
 ---
 <h3>Obrázky z projektov: </h3>
-<ul style="display: flex; flex-wrap: wrap; justify-content: center; list-style: none; padding: 0;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: center; list-style-type: none; padding: 0; margin: 0;">
   <li style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/ParkNode1.png" width="500">
+    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/ParkNode1.png" width="400">
   </li>
   <li style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/ParkNode2.png" width="500">
+    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/ParkNode2.png" width="400">
   </li>
   <li style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio1.png" width="500">
+    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Pocketflow1.png" width="400">
+  </li>
+  <li style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio1.png" width="400">
+  </li>
+  <li style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio3.png" width="400">
+  </li>
+  <li style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio2.png" width="400">
+  </li>
+  <li style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio4.png" width="400">
+  </li>
+  <li style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio5.png" width="400">
   </li>
 </ul>
