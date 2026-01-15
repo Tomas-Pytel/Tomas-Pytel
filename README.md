@@ -25,6 +25,14 @@
 
 ---
 <h3>Obrázky z projektov: </h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/ParkNode1.png" width="400">
-</p>
+<ul style="display: flex; flex-wrap: wrap; justify-content: center; list-style: none; padding: 0;">
+  <li style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/ParkNode1.png" width="500">
+  </li>
+  <li style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/ParkNode2.png" width="500">
+  </li>
+  <li style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio1.png" width="500">
+  </li>
+</ul>
