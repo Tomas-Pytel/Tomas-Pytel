@@ -26,13 +26,13 @@
 ---
 <h3>Obrázky z projektov: </h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/ParkNode1.png" width="450">
-  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/ParkNode2.png" width="450">
-  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Pocketflow.png" width="450">
-  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio1.png" width="450">
-  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio3.png" width="450">
-  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio2.png" width="450">
-  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio4.png" width="450">
-  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio5.png" width="450">
+  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/ParkNode1.png" width="480">
+  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/ParkNode2.png" width="480">
+  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Pocketflow.png" width="480">
+  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio1.png" width="480">
+  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio3.png" width="480">
+  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio2.png" width="480">
+  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio4.png" width="480">
+  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/Solfeggio5.png" width="480">
 </div>
 
