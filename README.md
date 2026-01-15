@@ -26,5 +26,5 @@
 ---
 <h3>Obrázky z projektov: </h3>
 <p align="center">
-  <img src="https://github.com/Tomas-Pytel/images/tree/main/images/ParkNode1.png" width="400">
+  <img src="https://raw.githubusercontent.com/Tomas-Pytel/images/main/images/ParkNode1.png" width="400">
 </p>
