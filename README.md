@@ -1,4 +1,4 @@
-<h3 align="center">Tomáš Pytel</h3>
+<h3 align="center">Bc. Tomáš Pytel</h3>
 
 <h3>Moje projekty:</h3>
 <h4>Web:</h4>
