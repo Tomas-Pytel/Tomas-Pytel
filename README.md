@@ -7,6 +7,7 @@
   - 🗺️ Navigation app: https://github.com/Tomas-Pytel/parknode
 
 <h4>Ostatné:</h4>
+  <h5>Školské projekty:</h5>
 
   - ⌨️ Typing game: https://github.com/Tomas-Pytel/Typing-Game
   - 🧭 Traveling Salesman Problem: https://github.com/Tomas-Pytel/Traveling-Salesman
