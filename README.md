@@ -3,7 +3,7 @@
 <h3>Moje projekty:</h3>
 <h4>Web:</h4>
 
-  - 📊 Expense tracking app: https://github.com/Tomas-Pytel/pocketflow-2
+  - 📊 Expense tracking app: https://github.com/Tomas-Pytel/pocketflow
   - 🗺️ Navigation app: https://github.com/Tomas-Pytel/parknode
 
 <h4>Ostatné:</h4>
