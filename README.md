@@ -1,4 +1,4 @@
-<h3 align="center">Bc. Tomáš Pytel</h3>
+<h3 align="center">Tomáš Pytel</h3>
 
 <h3>Moje projekty:</h3>
 <h4>Web:</h4>
@@ -6,8 +6,7 @@
   - 📊 Expense tracking app: https://github.com/Tomas-Pytel/pocketflow
   - 🗺️ Navigation app: https://github.com/Tomas-Pytel/parknode
 
-<h4>Ostatné:</h4>
-  <h5>Školské projekty:</h5>
+<h4>Školské projekty:</h4>
 
   - ⌨️ Typing game: https://github.com/Tomas-Pytel/Typing-Game
   - 🧭 Traveling Salesman Problem: https://github.com/Tomas-Pytel/Traveling-Salesman
