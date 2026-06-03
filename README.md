@@ -3,8 +3,12 @@
 <h3>Moje projekty:</h3>
 <h4>Web:</h4>
 
-  - 📊 Expense tracking app: https://github.com/Tomas-Pytel/pocketflow
-  - 🗺️ Navigation app: https://github.com/Tomas-Pytel/parknode
+  - Aplikácia pre prenajímateľov nehnuteľností:
+    - Github: https://github.com/Tomas-Pytel/flatily
+    - Web: https://flatily-rosy.vercel.app/
+  - Web stránka pre ukážku môjho portfólia:
+    - Github: https://github.com/Tomas-Pytel/portfolio-app
+    - Web: https://tomas-pytel.github.io/portfolio-app/
 
 <h4>Školské projekty:</h4>
 
